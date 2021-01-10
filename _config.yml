@@ -56,7 +56,7 @@ address:
   - line: Bangalore, KA 560082
 
 # Credits content
-credits: 'This is a open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme Credits: <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
