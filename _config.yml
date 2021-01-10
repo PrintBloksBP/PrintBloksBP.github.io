@@ -41,17 +41,15 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/AvinashAnad
-  - title: facebook
-    url: https://www.facebook.com/avinashanad
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/4910425/avinash
   - title: github
     url: https://github.com/AvinashAnad
   - title: linkedin
     url: https://www.linkedin.com/in/avinashanad/
-  - title: linkedin
-    url: https://www.linkedin.com/in/avinashanad/
-
+  - title: google-plus
+    url: http://www.datascience4life.science/
+  - title: blogspot
+    url: http://easytsql.blogspot.com/
+    
 # Postal address (add as many lines as necessary)
 address:
   - line: Brigade Meadows
