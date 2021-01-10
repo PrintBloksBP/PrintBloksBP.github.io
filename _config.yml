@@ -52,7 +52,7 @@ social:
     
 # Postal address (add as many lines as necessary)
 address:
-  - line: Brigade Meadows
+#   - line: Brigade Meadows
   - line: Bangalore, KA 560082
 
 # Credits content
