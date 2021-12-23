@@ -4,7 +4,9 @@ email: me@avinashanad.science
 url: https://github.com/AvinashAnad
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "#DevOps, #DataAnalyst, #Strategist, #DataConsultant, #DataEngineer"
-skills: "DevOps | Data Engineer | Analytics Consultant | Product Owner | Scrum Master | Telos Block Producer(PrintBloks.com)"
+skills: 
+  - line: DevOps | Data Engineer | Analytics Consultant | Product Owner | Scrum Master 
+  - line: Telos Block Producer(PrintBloks.com)
 meta_author: Anad Avinash
 
 # Google webmaster tools
@@ -52,11 +54,11 @@ social:
     
 # Postal address (add as many lines as necessary)
 address:
-#   - line: Brigade Meadows
-  - line: Bangalore, KA 560082
+  - line: B29, Brigade Meadows, Bangalore, KA, India 560082
+  - line: #4, Anad Enclave,Dharwad, KA, India 580008
 
 # Credits content
-credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>'
+# credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
