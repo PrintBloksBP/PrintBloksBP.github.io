@@ -1,9 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: https://www.telos.net/evm#3D-cards
-description: Telos EVM is a scalable solution for Solidity based applications, built with the intent of revolutionizing the DeFi landscape. Unlike other scalable EVMs, Telos EVM is not just a fork of the original Go Ethereum code. It’s an entirely new EVM redesigned from the ground up to take full advantage of the power that Telos technology has to offer.
+description: [Telos EVM] (https://www.telos.net/evm#3D-cards) is a scalable solution for Solidity based applications, built with the intent of revolutionizing the DeFi landscape. Unlike other scalable EVMs, Telos EVM is not just a fork of the original Go Ethereum code. It’s an entirely new EVM redesigned from the ground up to take full advantage of the power that Telos technology has to offer.
 ---
