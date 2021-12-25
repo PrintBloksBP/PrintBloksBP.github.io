@@ -1,6 +1,6 @@
 ---
 date: 2014-07-18
-img: cabin.png
+img: game.png
 alt: image-alt
 More : https://www.telos.net
 client: Start Bootstrap
