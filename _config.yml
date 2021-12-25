@@ -32,23 +32,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Avinash Anad
+  copyright: PrintBloks
   location: Location
   social: Around the Web
   #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#   - title: twitter
-#     url: https://twitter.com/AvinashAnad
-  - title: github
-    url: https://github.com/AvinashAnad
-  - title: linkedin
-    url: https://www.linkedin.com/in/avinashanad/
+  - title: twitter
+    url: https://twitter.com/printbloksbp
+#   - title: github
+#     url: https://github.com/AvinashAnad
+#   - title: linkedin
+#     url: https://www.linkedin.com/in/avinashanad/
   - title: google-plus
-    url: https://sites.google.com/site/datasciencesforlife/
-  - title: dribbble
-    url: http://easytsql.blogspot.com/
+    url: avinashanad.science
+  - title: telegram
+    url: https://t.me/avinash20121925
     
 # Postal address (add as many lines as necessary)
 address:
