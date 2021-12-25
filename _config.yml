@@ -53,7 +53,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: B29, Brigade Meadows, Bangalore, KA, India 560082
-  - line: 4, Anad Enclave, Dharwad, KA, India 580008
+#   - line: 4, Anad Enclave, Dharwad, KA, India 580008
 
 # Credits content
 # credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>'
