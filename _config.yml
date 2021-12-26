@@ -35,7 +35,7 @@ footer:
   copyright: PrintBloks
   location: Location
   social: Around the Web
-  credits: Phone:
+  credits: Phone
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,11 +53,11 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: B29, Brigade Meadows, Bangalore, KA, India 560082
-#   - line: 4, Anad Enclave, Dharwad, KA, India 580008
+
 
 # Credits content
 credits: 
-  - line: +91 9964203113
+  - line: +91 99642 03113
 
 # Build settings
 markdown: kramdown
