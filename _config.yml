@@ -35,7 +35,7 @@ footer:
   copyright: PrintBloks
   location: Location
   social: Around the Web
-  #credits: Credits
+  credits: Phone:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,8 @@ address:
 #   - line: 4, Anad Enclave, Dharwad, KA, India 580008
 
 # Credits content
-# credits: '<a href="http://startbootstrap.com">Start Bootstrap</a>'
+credits: 
+  - line: +91 9964203113
 
 # Build settings
 markdown: kramdown
