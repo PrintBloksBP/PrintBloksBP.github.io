@@ -4,7 +4,7 @@ email: avinash.20121925@gmail.com
 url: www.avinashanad.science
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "#DevOps, #DataAnalyst, #Strategist, #DataConsultant, #DataEngineer"
-skills: "Block Producer for Telos Protocol(TLOS) : Popularly known as cleanest bockchain, Telos is the third-generation blockchain platform for building fast, scalable distributed applications with feeless transactions. The Telos network has been developed to power the economies of the future and provide human-scale solutions to global challenges. With these goals in mind, it includes innovative governance features that empower organizations to shift influence and decision-making to a more collaborative and transparent model."
+skills: "Block Producer for Telos Protocol(TLOS) : Popularly known as cleanest bockchain, is the third-generation blockchain platform for building fast, scalable distributed applications with feeless transactions. The Telos network has been developed to power the economies of the future and provide human-scale solutions to global challenges. With these goals in mind, it includes innovative governance features that empower organizations to shift influence and decision-making to a more collaborative and transparent model."
 meta_author: Anad Avinash
 
 # Google webmaster tools
@@ -46,7 +46,7 @@ social:
 #   - title: linkedin
 #     url: https://www.linkedin.com/in/avinashanad/
   - title: google-plus
-    url: avinashanad.science
+    url: https://avinashanad.science
   - title: plus-circle
     url: https://t.me/avinash20121925
     
