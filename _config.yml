@@ -56,8 +56,7 @@ address:
 
 
 # Credits content
-credits: 
-  - line: +91 99642 03113
+credits: +91 99642 03113
 
 # Build settings
 markdown: kramdown
