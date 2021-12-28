@@ -2,27 +2,65 @@
   "producer_account_name": "printbloksbp", 
   "producer_public_key": "Key:EOS7yrAeVqmzBLPxHeKvMaYYxMBavp94NpXtrYCscCqVpTcsHtRig", 
   "org": {
-    "candidate_name": "printbloks", 
+    "candidate_name": "printbloksbp", 
     "website": "https://www.printbloks.com", 
     "code_of_conduct": "", 
-    "ownership_disclosure": "https://avinashanad.science/", 
+    "ownership_disclosure": "https://www.printbloks.com/#about", 
     "email": "avinash.20121925@gmail.com", 
     "phone": "+919964203113", 
-    "location": {
-      "name": "Bangalore", 
-      "country": "IN", 
-      "latitude": 12.812,
-      "longitude": 77.507
+    "branding": {
+      "logo_256": "https://www.printbloks.com/img/logo_256.png", 
+      "logo_1024": "https://www.printbloks.com/img/logo_1024.png", 
+      "logo_svg": "https://www.printbloks.com/img/logo.svg"
     }, 
+    "location": {
+      "name": "Karnataka", 
+      "country": "IN", 
+      "latitude": 12.8129, 
+      "longitude": 77.5078
+    }, 
+    "social": {
+      "steemit": "", 
+      "twitter": "printbloksbp", 
+      "youtube": "", 
+      "facebook": "", 
+      "github": "", 
+      "reddit": "", 
+      "keybase": "", 
+      "telegram": "@avinash20121925", 
+      "wechat": ""
+    }
+  }, 
   "nodes": [
     {
       "location": {
         "name": "Bangalore", 
-      	"country": "IN", 
-      	"latitude": 12.812,
-      	"longitude": 77.507
+        "country": "IN", 
+        "latitude": 12.8129, 
+        "longitude": 77.5078
       }, 
       "node_type": "producer"
+    }, 
+    {
+      "location": {
+        "name": "Bangalore", 
+        "country": "IN", 
+        "latitude": 12.8129, 
+        "longitude": 77.5078
+      }, 
+      "node_type": "producer", 
+      "p2p_endpoint": "testtlosapi.printbloks.com:9876"
+    },
+    {
+      "location": {
+        "name": "Bangalore", 
+        "country": "IN", 
+        "latitude": 12.8129,
+        "longitude": 77.5078
+      }, 
+      "node_type": "full", 
+      "api_endpoint": "https://testtlosapi.printbloks.com/", 
+      "ssl_endpoint": "https://testtlosapi.printbloks.com/"
     }
   ]
 }
