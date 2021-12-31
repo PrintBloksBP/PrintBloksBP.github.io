@@ -49,7 +49,7 @@
         "longitude": 77.5078
       }, 
       "node_type": "producer", 
-      "p2p_endpoint": "maintlosapi.printbloks.com:9876"
+      "p2p_endpoint": "testtlosapi.printbloks.com:9876"
     },
     {
       "location": {
@@ -59,8 +59,8 @@
         "longitude": 77.5078
       }, 
       "node_type": "full", 
-      "api_endpoint": "https://maintlosapi.printbloks.com/", 
-      "ssl_endpoint": "https://maintlosapi.printbloks.com/"
+      "api_endpoint": "https://testtlosapi.printbloks.com/", 
+      "ssl_endpoint": "https://testtlosapi.printbloks.com/"
     }
   ]
 }
